@@ -31,3 +31,20 @@
 11.	https://rentry.org/llm-training 
 12.	https://huggingface.co/blog/peft 
 13. https://llm-course.github.io/
+
+**RAG:**
+
+1.	https://jalammar.github.io/illustrated-retrieval-transformer/ 
+2.	https://www.promptingguide.ai/research/rag 
+
+**Prompt Engineering:**
+
+1.	https://www.promptingguide.ai/ 
+2.	https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/ 
+3.	https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api 
+4.	https://www.promptingguide.ai/applications/function_calling 
+5.	https://www.promptingguide.ai/applications/context-caching
+
+**LLM Agents:**
+
+1.	https://www.promptingguide.ai/research/llm-agents  
