@@ -15,19 +15,19 @@
 
 **Large Language Models:**
 
-a.	LLM Hackers:
-i.	https://www.youtube.com/watch?v=jkrNMKz9pWU
-ii.	https://github.com/fastai/lm-hackers?tab=readme-ov-file 
-iii.	https://fastai.github.io/lm-hackers/lm-hackers.html
-b.	https://wandb.ai/capecape/alpaca_ft/reports/How-to-Fine-Tune-an-LLM-Part-1-Preparing-a-Dataset-for-Instruction-Tuning--Vmlldzo1NTcxNzE2 
-c.	  https://wandb.ai/capecape/alpaca_ft/reports/How-to-Fine-Tune-an-LLM-Part-2-Instruction-Tuning-Llama-2--Vmlldzo1NjY0MjE1 
-d.	https://wandb.ai/capecape/alpaca_ft/reports/How-to-Fine-tune-an-LLM-Part-3-The-HuggingFace-Trainer--Vmlldzo1OTEyNjMy 
-e.	https://solano-todeschini.medium.com/generating-a-clinical-instruction-dataset-in-portuguese-with-langchain-and-gpt-4-6ee9abfa41ae 
-f.	https://www.youtube.com/watch?v=kCc8FmEb1nY
-g.	https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing#scrollTo=hoelkOrFY8bN 
-h.	https://huggingface.co/learn/nlp-course/chapter7/6?fw=pt 
-i.	https://huggingface.co/docs/transformers/tasks/language_modeling 
-j.	https://huggingface.co/docs/transformers/tasks/masked_language_modeling 
-k.	https://rentry.org/llm-training 
-l.	https://huggingface.co/blog/peft 
-https://llm-course.github.io/
+1.	LLM Hackers:
+    -	https://www.youtube.com/watch?v=jkrNMKz9pWU
+    -	https://github.com/fastai/lm-hackers?tab=readme-ov-file 
+    -	https://fastai.github.io/lm-hackers/lm-hackers.html
+2.	https://wandb.ai/capecape/alpaca_ft/reports/How-to-Fine-Tune-an-LLM-Part-1-Preparing-a-Dataset-for-Instruction-Tuning--Vmlldzo1NTcxNzE2 
+3.	  https://wandb.ai/capecape/alpaca_ft/reports/How-to-Fine-Tune-an-LLM-Part-2-Instruction-Tuning-Llama-2--Vmlldzo1NjY0MjE1 
+4.	https://wandb.ai/capecape/alpaca_ft/reports/How-to-Fine-tune-an-LLM-Part-3-The-HuggingFace-Trainer--Vmlldzo1OTEyNjMy 
+5.	https://solano-todeschini.medium.com/generating-a-clinical-instruction-dataset-in-portuguese-with-langchain-and-gpt-4-6ee9abfa41ae 
+6.	https://www.youtube.com/watch?v=kCc8FmEb1nY
+7.	https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing#scrollTo=hoelkOrFY8bN 
+8.	https://huggingface.co/learn/nlp-course/chapter7/6?fw=pt 
+9.	https://huggingface.co/docs/transformers/tasks/language_modeling 
+10.	https://huggingface.co/docs/transformers/tasks/masked_language_modeling 
+11.	https://rentry.org/llm-training 
+12.	https://huggingface.co/blog/peft 
+13. https://llm-course.github.io/
