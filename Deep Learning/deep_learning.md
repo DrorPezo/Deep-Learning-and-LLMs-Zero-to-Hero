@@ -1,2 +1,2 @@
 **Embeddings:**
-1. a.	https://jalammar.github.io/illustrated-word2vec/  
+1.https://jalammar.github.io/illustrated-word2vec/  
