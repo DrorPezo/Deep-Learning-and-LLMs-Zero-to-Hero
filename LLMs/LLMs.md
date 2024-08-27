@@ -1,6 +1,8 @@
 **Attention:**
+
 1.	https://aman.ai/primers/ai/attention/ 
 **Transformers:**
+
 1.	https://aman.ai/primers/ai/transformers/ 
 2.	https://jalammar.github.io/illustrated-transformer/ 
 3.	https://nlp.seas.harvard.edu/annotated-transformer/
