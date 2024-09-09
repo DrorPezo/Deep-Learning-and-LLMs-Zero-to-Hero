@@ -47,4 +47,8 @@
 
 **LLM Agents:**
 
-1.	https://www.promptingguide.ai/research/llm-agents  
+1.	https://www.promptingguide.ai/research/llm-agents
+
+**Frameworks and Libraries:**
+1.LangChain:
+- https://blog.gopenai.com/zeroshot-fewshot-and-prompt-chaining-using-langchain-4259d700d67f 
