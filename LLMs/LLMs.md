@@ -35,7 +35,8 @@
 **RAG:**
 
 1.	https://jalammar.github.io/illustrated-retrieval-transformer/ 
-2.	https://www.promptingguide.ai/research/rag 
+2.	https://www.promptingguide.ai/research/rag
+3.	https://blog.gopenai.com/rag-for-everyone-a-beginners-guide-to-embedding-similarity-search-and-vector-db-423946475c90  
 
 **Prompt Engineering:**
 
