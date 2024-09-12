@@ -32,12 +32,15 @@
 12.	https://huggingface.co/blog/peft 
 13. https://llm-course.github.io/
 
+**Similarity Search:** 
+1. https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/ 
 **RAG:**
 
 1.	https://jalammar.github.io/illustrated-retrieval-transformer/ 
 2.	https://www.promptingguide.ai/research/rag
 3.	https://blog.gopenai.com/rag-for-everyone-a-beginners-guide-to-embedding-similarity-search-and-vector-db-423946475c90
-4.	https://ai.meta.com/blog/retrieval-augmented-generation-streamlining-the-creation-of-intelligent-natural-language-processing-models/  
+4.	https://ai.meta.com/blog/retrieval-augmented-generation-streamlining-the-creation-of-intelligent-natural-language-processing-models/
+5.	https://medium.com/@drjulija/how-i-built-a-basic-rag-for-pdf-qa-in-a-few-lines-of-python-code-9849c32e59f0
 
 **Prompt Engineering:**
 
@@ -46,6 +49,7 @@
 3.	https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api 
 4.	https://www.promptingguide.ai/applications/function_calling 
 5.	https://www.promptingguide.ai/applications/context-caching
+
 
 **LLM Agents:**
 
