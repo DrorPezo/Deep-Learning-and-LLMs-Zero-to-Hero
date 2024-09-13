@@ -33,7 +33,8 @@
 13. https://llm-course.github.io/
 
 **Similarity Search:** 
-1. https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/ 
+1. https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/
+    
 **RAG:**
 
 1.	https://jalammar.github.io/illustrated-retrieval-transformer/
@@ -42,6 +43,7 @@
 4.	https://blog.gopenai.com/rag-for-everyone-a-beginners-guide-to-embedding-similarity-search-and-vector-db-423946475c90
 5.	https://ai.meta.com/blog/retrieval-augmented-generation-streamlining-the-creation-of-intelligent-natural-language-processing-models/
 6.	https://medium.com/@drjulija/how-i-built-a-basic-rag-for-pdf-qa-in-a-few-lines-of-python-code-9849c32e59f0
+7.  https://scrapfly.io/blog/how-to-use-web-scaping-for-rag-applications/ 
 
 **Prompt Engineering:**
 
