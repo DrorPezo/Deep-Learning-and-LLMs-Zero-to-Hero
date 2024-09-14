@@ -55,7 +55,8 @@
 14.  https://www.comet.com/site/blog/advanced-rag-algorithms-optimize-retrieval/
 15.  https://blog.langchain.dev/query-construction/
 16.  https://www.datacamp.com/blog/the-top-5-vector-databases
-17.  https://adasci.org/understanding-okapi-bm25-a-guide-to-modern-information-retrieval/ 
+17.  https://adasci.org/understanding-okapi-bm25-a-guide-to-modern-information-retrieval/
+18.  https://blog.gopenai.com/advanced-rag-with-self-correction-langgraph-no-hallucination-agents-groq-42cb6e5c0086 
 
 **Prompt Engineering:**
 
