@@ -53,6 +53,7 @@
 12.  https://www.llamaindex.ai/blog/evaluating-the-ideal-chunk-size-for-a-rag-system-using-llamaindex-6207e5d3fec5
 13.  https://www.databricks.com/blog/LLM-auto-eval-best-practices-RAG
 14.  https://www.comet.com/site/blog/advanced-rag-algorithms-optimize-retrieval/
+15.  https://blog.langchain.dev/query-construction/
 
 **Prompt Engineering:**
 
