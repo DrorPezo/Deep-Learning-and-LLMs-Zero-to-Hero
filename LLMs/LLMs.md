@@ -54,6 +54,7 @@
 13.  https://www.databricks.com/blog/LLM-auto-eval-best-practices-RAG
 14.  https://www.comet.com/site/blog/advanced-rag-algorithms-optimize-retrieval/
 15.  https://blog.langchain.dev/query-construction/
+16.  https://www.datacamp.com/blog/the-top-5-vector-databases
 
 **Prompt Engineering:**
 
