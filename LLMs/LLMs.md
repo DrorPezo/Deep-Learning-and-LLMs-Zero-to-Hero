@@ -65,6 +65,7 @@
 **LLM Agents:**
 
 1.	https://www.promptingguide.ai/research/llm-agents
+2.	https://lilianweng.github.io/posts/2023-06-23-agent/#component-two-memory
 
 **Frameworks and Libraries:**
 
