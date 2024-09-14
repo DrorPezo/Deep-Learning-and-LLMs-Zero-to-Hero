@@ -1,5 +1,7 @@
 **Attention:**
 1.	https://aman.ai/primers/ai/attention/
+2.	https://lilianweng.github.io/posts/2018-06-24-attention/
+3.	https://eugeneyan.com/writing/attention/ 
     
 **Transformers:**
 1.	https://aman.ai/primers/ai/transformers/ 
@@ -37,13 +39,16 @@
     
 **RAG:**
 
-1.	https://jalammar.github.io/illustrated-retrieval-transformer/
-2.	https://www.promptingguide.ai/techniques/rag  
-3.	https://www.promptingguide.ai/research/rag
-4.	https://blog.gopenai.com/rag-for-everyone-a-beginners-guide-to-embedding-similarity-search-and-vector-db-423946475c90
-5.	https://ai.meta.com/blog/retrieval-augmented-generation-streamlining-the-creation-of-intelligent-natural-language-processing-models/
-6.	https://medium.com/@drjulija/how-i-built-a-basic-rag-for-pdf-qa-in-a-few-lines-of-python-code-9849c32e59f0
-7.  https://scrapfly.io/blog/how-to-use-web-scaping-for-rag-applications/ 
+1.  https://lilianweng.github.io/posts/2020-10-29-odqa/
+2.  https://mallahyari.github.io/rag-ebook/
+3.	https://jalammar.github.io/illustrated-retrieval-transformer/
+4.	https://www.promptingguide.ai/techniques/rag  
+5.	https://www.promptingguide.ai/research/rag
+6.	https://blog.gopenai.com/rag-for-everyone-a-beginners-guide-to-embedding-similarity-search-and-vector-db-423946475c90
+7.	https://ai.meta.com/blog/retrieval-augmented-generation-streamlining-the-creation-of-intelligent-natural-language-processing-models/
+8.	https://medium.com/@drjulija/how-i-built-a-basic-rag-for-pdf-qa-in-a-few-lines-of-python-code-9849c32e59f0
+9.  https://scrapfly.io/blog/how-to-use-web-scaping-for-rag-applications/
+10.  https://cobusgreyling.medium.com/rag-evaluation-9813a931b3d4
 
 **Prompt Engineering:**
 
