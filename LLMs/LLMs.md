@@ -56,7 +56,8 @@
 15.  https://blog.langchain.dev/query-construction/
 16.  https://www.datacamp.com/blog/the-top-5-vector-databases
 17.  https://adasci.org/understanding-okapi-bm25-a-guide-to-modern-information-retrieval/
-18.  https://blog.gopenai.com/advanced-rag-with-self-correction-langgraph-no-hallucination-agents-groq-42cb6e5c0086 
+18.  https://blog.gopenai.com/advanced-rag-with-self-correction-langgraph-no-hallucination-agents-groq-42cb6e5c0086
+19.  https://medium.com/@nirdiamant21/hierarchical-indices-enhancing-rag-systems-43c06330c085 
 
 **Prompt Engineering:**
 
