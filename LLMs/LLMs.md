@@ -50,6 +50,7 @@
 9.  https://scrapfly.io/blog/how-to-use-web-scaping-for-rag-applications/
 10.  https://cobusgreyling.medium.com/rag-evaluation-9813a931b3d4
 11.  https://blog.langchain.dev/evaluating-rag-pipelines-with-ragas-langsmith/
+12.  https://www.llamaindex.ai/blog/evaluating-the-ideal-chunk-size-for-a-rag-system-using-llamaindex-6207e5d3fec5
 
 **Prompt Engineering:**
 
