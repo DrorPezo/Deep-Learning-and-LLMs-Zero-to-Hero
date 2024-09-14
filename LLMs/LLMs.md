@@ -49,6 +49,7 @@
 8.	https://medium.com/@drjulija/how-i-built-a-basic-rag-for-pdf-qa-in-a-few-lines-of-python-code-9849c32e59f0
 9.  https://scrapfly.io/blog/how-to-use-web-scaping-for-rag-applications/
 10.  https://cobusgreyling.medium.com/rag-evaluation-9813a931b3d4
+11.  https://blog.langchain.dev/evaluating-rag-pipelines-with-ragas-langsmith/
 
 **Prompt Engineering:**
 
