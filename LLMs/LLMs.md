@@ -72,6 +72,7 @@
 
 1. https://serpapi.com/blog/web-scraping-and-parsing-experiment-with-ai-openai/
 2. https://scrapfly.io/blog/how-to-use-web-scaping-for-rag-applications/
+   
 **LLM Agents:**
 
 1.	https://www.promptingguide.ai/research/llm-agents
