@@ -68,10 +68,10 @@
 4.	https://www.promptingguide.ai/applications/function_calling 
 5.	https://www.promptingguide.ai/applications/context-caching
 
-** Scraping: **
+**Scraping:**
 
 1. https://serpapi.com/blog/web-scraping-and-parsing-experiment-with-ai-openai/
-2. 
+2. https://scrapfly.io/blog/how-to-use-web-scaping-for-rag-applications/
 **LLM Agents:**
 
 1.	https://www.promptingguide.ai/research/llm-agents
