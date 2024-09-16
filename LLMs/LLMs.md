@@ -67,6 +67,7 @@
 3.	https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api 
 4.	https://www.promptingguide.ai/applications/function_calling 
 5.	https://www.promptingguide.ai/applications/context-caching
+6.	https://blog.gopenai.com/zeroshot-fewshot-and-prompt-chaining-using-langchain-4259d700d67f
 
 **Scraping:**
 
@@ -77,8 +78,3 @@
 
 1.	https://www.promptingguide.ai/research/llm-agents
 2.	https://lilianweng.github.io/posts/2023-06-23-agent/#component-two-memory
-
-**Frameworks and Libraries:**
-
-1.LangChain:
-- https://blog.gopenai.com/zeroshot-fewshot-and-prompt-chaining-using-langchain-4259d700d67f 
