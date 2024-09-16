@@ -78,3 +78,4 @@
 
 1.	https://www.promptingguide.ai/research/llm-agents
 2.	https://lilianweng.github.io/posts/2023-06-23-agent/#component-two-memory
+3.	https://www.facebook.com/groups/MDLI1/permalink/2698811796949518
