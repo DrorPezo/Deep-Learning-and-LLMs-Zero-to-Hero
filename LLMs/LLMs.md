@@ -35,7 +35,13 @@
 13. https://llm-course.github.io/
 
 **Similarity Search:** 
+
 1. https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/
+
+**Information Retrieval** 
+1. https://www.irit.fr/~Lynda.Tamine-Lechani/pdf/Lectures/Graduate/Foundations%20of%20Information%20Retreval/Chapter%201.pdf
+2. https://www.irit.fr/~Lynda.Tamine-Lechani/pdf/Lectures/Graduate/Foundations%20of%20Information%20Retreval/Chapter%202.pdf
+3. https://www.irit.fr/~Lynda.Tamine-Lechani/pdf/Lectures/Graduate/Foundations%20of%20Information%20Retreval/Chapter%203.pdf
     
 **RAG:**
 
