@@ -37,6 +37,8 @@
 **Known LLMs:**
 1. ChatGPT: https://www.promptingguide.ai/models/chatgpt 
 
+**State Space Models:**
+1. https://medium.com/@tayloroakley/jamba-1-5-the-new-rag-king-is-here-402c6bfdbfc3
 
 **Similarity Search:** 
 
