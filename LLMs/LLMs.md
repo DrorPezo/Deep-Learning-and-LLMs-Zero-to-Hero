@@ -39,6 +39,7 @@
 
 **State Space Models:**
 1. https://medium.com/@tayloroakley/jamba-1-5-the-new-rag-king-is-here-402c6bfdbfc3
+2. https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/introducing-ai21-labs-jamba-1-5-large-and-jamba-1-5-mini-on/ba-p/4220040 
 
 **Similarity Search:** 
 
