@@ -34,6 +34,10 @@
 12.	https://huggingface.co/blog/peft 
 13. https://llm-course.github.io/
 
+**Known LLMs:**
+1. ChatGPT: https://www.promptingguide.ai/models/chatgpt 
+
+
 **Similarity Search:** 
 
 1. https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/
