@@ -94,3 +94,4 @@
 2.	https://github.com/Significant-Gravitas/AutoGPT
 3.	https://www.facebook.com/groups/MDLI1/permalink/2698811796949518
 4.	https://lilianweng.github.io/posts/2023-06-23-agent/
+5.	https://developer.nvidia.com/blog/introduction-to-llm-agents/
