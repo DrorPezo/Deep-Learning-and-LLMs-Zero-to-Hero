@@ -52,26 +52,27 @@
     
 **RAG:**
 
-1.  https://lilianweng.github.io/posts/2020-10-29-odqa/
-2.  https://mallahyari.github.io/rag-ebook/
-3.	https://jalammar.github.io/illustrated-retrieval-transformer/
-4.	https://www.promptingguide.ai/techniques/rag  
-5.	https://www.promptingguide.ai/research/rag
-6.	https://blog.gopenai.com/rag-for-everyone-a-beginners-guide-to-embedding-similarity-search-and-vector-db-423946475c90
-7.	https://ai.meta.com/blog/retrieval-augmented-generation-streamlining-the-creation-of-intelligent-natural-language-processing-models/
-8.	https://medium.com/@drjulija/how-i-built-a-basic-rag-for-pdf-qa-in-a-few-lines-of-python-code-9849c32e59f0
-9.  https://scrapfly.io/blog/how-to-use-web-scaping-for-rag-applications/
-10.  https://cobusgreyling.medium.com/rag-evaluation-9813a931b3d4
-11.  https://blog.langchain.dev/evaluating-rag-pipelines-with-ragas-langsmith/
-12.  https://www.llamaindex.ai/blog/evaluating-the-ideal-chunk-size-for-a-rag-system-using-llamaindex-6207e5d3fec5
-13.  https://www.databricks.com/blog/LLM-auto-eval-best-practices-RAG
-14.  https://www.comet.com/site/blog/advanced-rag-algorithms-optimize-retrieval/
-15.  https://blog.langchain.dev/query-construction/
-16.  https://www.datacamp.com/blog/the-top-5-vector-databases
-17.  https://adasci.org/understanding-okapi-bm25-a-guide-to-modern-information-retrieval/
-18.  https://blog.gopenai.com/advanced-rag-with-self-correction-langgraph-no-hallucination-agents-groq-42cb6e5c0086
-19.  https://medium.com/@nirdiamant21/hierarchical-indices-enhancing-rag-systems-43c06330c085
-20.  https://medium.com/@nirdiamant21/relevance-revolution-how-re-ranking-transforms-rag-systems-0ffaa15f1047 
+1.  https://github.com/NirDiamant/RAG_Techniques/tree/main
+2.  https://lilianweng.github.io/posts/2020-10-29-odqa/
+3.  https://mallahyari.github.io/rag-ebook/
+4.	https://jalammar.github.io/illustrated-retrieval-transformer/
+5.	https://www.promptingguide.ai/techniques/rag  
+6.	https://www.promptingguide.ai/research/rag
+7.	https://blog.gopenai.com/rag-for-everyone-a-beginners-guide-to-embedding-similarity-search-and-vector-db-423946475c90
+8.	https://ai.meta.com/blog/retrieval-augmented-generation-streamlining-the-creation-of-intelligent-natural-language-processing-models/
+9.	https://medium.com/@drjulija/how-i-built-a-basic-rag-for-pdf-qa-in-a-few-lines-of-python-code-9849c32e59f0
+10.  https://scrapfly.io/blog/how-to-use-web-scaping-for-rag-applications/
+11.  https://cobusgreyling.medium.com/rag-evaluation-9813a931b3d4
+12.  https://blog.langchain.dev/evaluating-rag-pipelines-with-ragas-langsmith/
+13.  https://www.llamaindex.ai/blog/evaluating-the-ideal-chunk-size-for-a-rag-system-using-llamaindex-6207e5d3fec5
+14.  https://www.databricks.com/blog/LLM-auto-eval-best-practices-RAG
+15.  https://www.comet.com/site/blog/advanced-rag-algorithms-optimize-retrieval/
+16.  https://blog.langchain.dev/query-construction/
+17.  https://www.datacamp.com/blog/the-top-5-vector-databases
+18.  https://adasci.org/understanding-okapi-bm25-a-guide-to-modern-information-retrieval/
+19.  https://blog.gopenai.com/advanced-rag-with-self-correction-langgraph-no-hallucination-agents-groq-42cb6e5c0086
+20.  https://medium.com/@nirdiamant21/hierarchical-indices-enhancing-rag-systems-43c06330c085
+21.  https://medium.com/@nirdiamant21/relevance-revolution-how-re-ranking-transforms-rag-systems-0ffaa15f1047 
 
 **Prompt Engineering:**
 
